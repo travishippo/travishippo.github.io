@@ -53,6 +53,14 @@ body {
   background-color: #777;
 }
 
+.second-slide {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%; /* Adjust this as needed */
+}
+
+
 .carousel-inner > .item > img {
   position: absolute;
   top: 0;
